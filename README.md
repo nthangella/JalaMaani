@@ -16,7 +16,7 @@ Required materials to complete this part:
 - [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) with desktop operating system, installed on the Pi. 
 - Most likely already installed [Python3](https://www.python.org/downloads/) software 
 - GPIO Pyhton module. Install using the command 'sudo apt-get install rpi-gpio'.
-- [Balsa Stick](https://www.hobbylobby.com/Crafts-Hobbies/Painting-Surfaces/Wood/36-Balsa-Stick-Pack/p/20138). You can find small kids using balsa stick for their creative school projects. Any piece of thin wood stick works. . 
+- [Balsa Stick](https://www.hobbylobby.com/Crafts-Hobbies/Painting-Surfaces/Wood/36-Balsa-Stick-Pack/p/20138). You can find small kids using balsa stick for their creative school projects. Any piece of thin wood stick works.
 - A cable with four wires. This project uses a old phone cable with black, green, yellow and red colored wires.
 - Dupont jumper connectors. Search on eBay. 
 - Bottle of regular tap water. Pure and distilled water may not work.
