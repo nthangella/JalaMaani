@@ -12,11 +12,11 @@ In this part we will build a simple water level monitor using simple materials a
 
 Video Link - https://youtu.be/5YWfMaGPp3I
 Required materials to complete this part:
-- Raspberry Pi any model. Older and zero models have lesser processing power. Pi 3 is recommended. https://www.raspberrypi.org/products/
-- Raspbian Stretch with desktop operating system, installed on the Pi. https://www.raspberrypi.org/downloads/raspbian/
-- Most likely already installed Python3 software https://www.python.org/downloads/
+- [Raspberry Pi](https://www.raspberrypi.org/products/) any model. Older and zero models have lesser processing power. Pi 3 is recommended. 
+- [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) with desktop operating system, installed on the Pi. 
+- Most likely already installed [Python3](https://www.python.org/downloads/) software 
 - GPIO Pyhton module. Install using the command 'sudo apt-get install rpi-gpio'.
-- Balsa Stick. You can find small kids using balsa stick for their creative school projects. Any piece of thin wood stick works. https://www.hobbylobby.com/Crafts-Hobbies/Painting-Surfaces/Wood/36-Balsa-Stick-Pack/p/20138. 
+- [Balsa Stick](https://www.hobbylobby.com/Crafts-Hobbies/Painting-Surfaces/Wood/36-Balsa-Stick-Pack/p/20138). You can find small kids using balsa stick for their creative school projects. Any piece of thin wood stick works. . 
 - A cable with four wires. This project uses a old phone cable with black, green, yellow and red colored wires.
 - Dupont jumper connectors. Search on eBay. 
 - Bottle of regular tap water. Pure and distilled water may not work.
