@@ -1,12 +1,11 @@
-
-###JalaMaani
+### JalaMaani
 
 
 In an Indian language, `Jala` means water and `Maani` means a measuring device. This repository has the code to build a simple water level monitor using Raspberry Pi and expose the monitor via web and Amazon Alexa.
 
 I split the project into five parts to simplify the understanding of the code build. I am hoping that this creates interest in youngsters as well elders to get a grasp on using very cost effective devices to build great stuff. I made videos of each part and uploaded them to YouTube. You can find those links below.
 
-##Part - 1
+## Part - 1
 
 In this part we will build a simple water level monitor using simple materials and Raspberry Pi. The console shows the status as blue, green, yellow and red depending on the water level. GPIO pins are used to capture the water level.
 
@@ -24,7 +23,7 @@ Required materials to complete this part:
 - Bottle of regular tap water. Pure and distilled water may not work.
 - Electrical tape.
 
-##Part - 2
+## Part - 2
 
 In this part we will extend the code built in Part-1 to indicate the water level by litting appropriate colored LED (light emitting diode). 
 
@@ -37,7 +36,7 @@ Additional materials to complete this part:
 - Optional t-Cobbler connector. This helps making connections very easy but not a must.
 - Two resistors of 300 ohms. To reduce current levels in the circuits, I ultimately ended up using 5K resistors.
 
-##Part - 3
+## Part - 3
 
 In this part we will extend the code built in Part-1 to indicate the water level by litting appropriate colored LED (light emitting diode). 
 
