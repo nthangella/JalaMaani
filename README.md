@@ -11,6 +11,7 @@ I split the project into five parts to simplify the understanding of the code bu
 In this part we will build a simple water level monitor using simple materials and Raspberry Pi. The console shows the status as blue, green, yellow and red depending on the water level. GPIO pins are used to capture the water level.
 
 Video Link - https://youtu.be/5YWfMaGPp3I
+
 Required materials to complete this part:
 - [Raspberry Pi](https://www.raspberrypi.org/products/) any model. Older and zero models have lesser processing power. Pi 3 is recommended. 
 - [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) with desktop operating system, installed on the Pi. 
