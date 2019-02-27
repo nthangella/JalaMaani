@@ -1,4 +1,4 @@
-### JalaMaani
+# JalaMaani
 
 
 In an Indian language, `Jala` means water and `Maani` means a measuring device. This repository has the code to build a simple water level monitor using Raspberry Pi and expose the monitor via web and Amazon Alexa.
@@ -38,14 +38,20 @@ Additional materials to complete this part:
 
 ## Part - 3
 
-In this part we will extend the code built in Part-1 to indicate the water level by litting appropriate colored LED (light emitting diode). 
+In this part, we will further extend the code to capture the status to a file for purposes of history. Additionally we will learn how to  run the code in background upon reboot of the Raspberry Pi.
 
-[Video Link](https://youtu.be/mLumtc2Q0uA) - https://youtu.be/mLumtc2Q0uA
+[Video Link](https://youtu.be/ERrCAJt_940) -https://youtu.be/ERrCAJt_940
 
-Additional materials to complete this part:
+No additional materials are required to complete this part:
 
-- Bread Board
-- Four colored LEDs - This project uses blue, green, yellow and red colored LEDs
-- Optional t-Cobbler connector. This helps making connections very easy but not a must.
-- Two resistors of 300 ohms. To reduce current levels in the circuits, I ultimately ended up using 5K resistors.
+## Part - 4
 
+In this part, we will further extend the code to capture the status to a file for purposes of history. Additionally we will learn how to  run the code in background upon reboot of the Raspberry Pi.
+
+[Video Link](https://youtu.be/ERrCAJt_940) -https://youtu.be/ERrCAJt_940
+
+No additional materials are required to complete this part:
+
+
+Video 4 - https://youtu.be/xBGxMl_61Mw
+Video 5 - https://youtu.be/2s9v6wwBHQc
