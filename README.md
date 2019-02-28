@@ -17,6 +17,7 @@ Required materials to complete this part:
 - [Raspbian Stretch](https://www.raspberrypi.org/downloads/raspbian/) with desktop operating system, installed on the Pi. 
 - Most likely already installed [Python3](https://www.python.org/downloads/) software 
 - GPIO Pyhton module. Install using the command 'sudo apt-get install rpi-gpio'.
+- A folder named 'code' under the Pi home folder /home/pi/code. Command `mkdir /home/pi/code`.
 - [Balsa Stick](https://www.hobbylobby.com/Crafts-Hobbies/Painting-Surfaces/Wood/36-Balsa-Stick-Pack/p/20138). You can find small kids using balsa stick for their creative school projects. Any piece of thin wood stick works.
 - A cable with four wires. This project uses a old phone cable with black, green, yellow and red colored wires.
 - Dupont jumper connectors. Search on eBay. 
@@ -42,16 +43,31 @@ In this part, we will further extend the code to capture the status to a file fo
 
 [Video Link](https://youtu.be/ERrCAJt_940) -https://youtu.be/ERrCAJt_940
 
-No additional materials are required to complete this part:
+Additional materials to complete this part:
+
+- Create a folder 
 
 ## Part - 4
 
-In this part, we will further extend the code to capture the status to a file for purposes of history. Additionally we will learn how to  run the code in background upon reboot of the Raspberry Pi.
+How can you monitor the water level from anywhere in the world? This part shows how to expose the water level monitor over internet.
 
-[Video Link](https://youtu.be/ERrCAJt_940) -https://youtu.be/ERrCAJt_940
+[Video Link](https://youtu.be/xBGxMl_61Mw) -https://youtu.be/xBGxMl_61Mw
 
-No additional materials are required to complete this part:
+Additional materials to complete this part:
+
+- NodeJs software. It may have been already installed on the Pi.
+- Express, a NodeJS module.
 
 
-Video 4 - https://youtu.be/xBGxMl_61Mw
-Video 5 - https://youtu.be/2s9v6wwBHQc
+## Part - 5
+
+Did you ever have a reliable and loyal assistant? Alexa can help you get the status of water level monitor status. In this part, we will  show how to integrate our monitor with Amazon Alexa.
+
+[Video Link](https://youtu.be/2s9v6wwBHQc) -https://youtu.be/2s9v6wwBHQc
+
+Additional materials to complete this part:
+
+- Account to use Amazon Web Services - [AWS](https://aws.amazon.com/)
+- Account to access [Amazon developer portal](https://developer.amazon.com/).
+- Any [Alexa device](https://www.amazon.com/Amazon-Echo-And-Alexa-Devices/b?ie=UTF8&node=9818047011) or Alexa application.
+
