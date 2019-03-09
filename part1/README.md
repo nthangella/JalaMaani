@@ -31,3 +31,5 @@ In the project, we will use three INPUT pins. Each pin end is at a different hei
 clear screen
 
 
+
+
