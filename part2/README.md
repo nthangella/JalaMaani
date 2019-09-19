@@ -18,6 +18,10 @@ Additional materials to complete this part:
 
 You can use this to build and test simple circuits without soldering. https://en.wikipedia.org/wiki/Breadboard.
 
+#### Light Emitting Device (LED)
+
+This is a semiconductor device that emits light when electricity is applied. https://www.ledsmagazine.com/leds-ssl-design/materials/article/16701292/what-is-an-led. LED is poloarized and should be connected accordingly in the circuit. Longer leg indicates positive and should be on the positive side of the circuit. Improper connection leads to damage to the device or connected equiment and/or injury to body. Connecting the LEDs properly will save possible frustration when circuit doesn't work.
+
 ### How to run the code:
 
 - Download the code to your folder '/home/pi/code'.
