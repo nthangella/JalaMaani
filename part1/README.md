@@ -28,9 +28,9 @@ In the project, we will use three INPUT pins. Each pin end is at a different hei
 
 ### How to run the code:
 
-Download the code to your folder '/home/pi/code'.
-Type the command `python3 /home/pi/code/waterLevelDemo1.py`
-To stop the code, press ctrl+c.
+- Download the code to your folder '/home/pi/code'.
+- Type the command `python3 /home/pi/code/waterLevelDemo1.py`
+- To stop the code, press ctrl+c.
 
 
 
