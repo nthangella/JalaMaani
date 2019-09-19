@@ -10,8 +10,16 @@ Additional materials to complete this part:
 - Bread Board
 - Four colored LEDs - This project uses blue, green, yellow and red colored LEDs
 - Optional t-Cobbler connector. This helps making connections very easy but not a must.
-- Two resistors of 300 ohms. To reduce current levels in the circuits, I ultimately ended up using 5K resistors.
+- Two resistors of 300 ohms or more. To reduce current levels in the circuits, I ultimately ended up using 5K resistors.
 
 ### Concepts:
 
-###
+#### Bread Board
+
+You can use this to build and test simple circuits without soldering. https://en.wikipedia.org/wiki/Breadboard.
+
+### How to run the code:
+
+- Download the code to your folder '/home/pi/code'.
+- Type the command `python3 /home/pi/code/waterLevelDemo2.py`
+- To stop the code, press ctrl+c.
