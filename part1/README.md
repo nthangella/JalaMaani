@@ -26,9 +26,12 @@ Many of the Raspberry Pi's GPIO (General Purpose Input Output) pins can be used 
 #### Water bottle as a water storage tank.
 In the project, we will use three INPUT pins. Each pin end is at a different height relative to the power supply pin whose end will be placed at the bottom of the water. When water contacts and one or more pins is set HIGH when water comes in contact with the respective pin end.
 
-### Source code review.
+### How to run the code:
 
-clear screen
+Download the code to your folder '/home/pi/code'.
+Type the command `python3 /home/pi/code/waterLevelDemo1.py`
+To stop the code, press ctrl+c.
+
 
 
 
