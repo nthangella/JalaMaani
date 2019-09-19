@@ -5,6 +5,16 @@ In this part, we will further extend the code to capture the status to a file fo
 
 [Video Link](https://youtu.be/ERrCAJt_940) -https://youtu.be/ERrCAJt_940
 
-Additional materials to complete this part:
+### Additional materials to complete this part:
 
-- Create a folder 
+- Create a folder 'home/pi/logs'
+
+### Concepts:
+
+writing to a file in python code.
+
+### How to run the code:
+
+- Download the code to your folder '/home/pi/code'.
+- Type the command `python3 /home/pi/code/waterLevelDemo3.py`
+- To stop the code, press ctrl+c.
